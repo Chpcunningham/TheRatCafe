@@ -44,7 +44,7 @@ TagManager:
   - name: Ground
     uniqueID: 1650592187
     locked: 0
-  - name: InFrontOf
+  - name: InFrontOfObject
     uniqueID: 174806727
     locked: 0
   - name: Collision
@@ -53,7 +53,7 @@ TagManager:
   - name: Player
     uniqueID: 3369353427
     locked: 0
-  - name: BehindOf
+  - name: BehindOfObject
     uniqueID: 2835270621
     locked: 0
   m_RenderingLayers:

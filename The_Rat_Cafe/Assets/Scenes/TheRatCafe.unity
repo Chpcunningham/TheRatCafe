@@ -780,9 +780,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerInteraction
   radius: 2
+  interactAction: {fileID: 1920623597005936090, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   collisionMask:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 1
+  isColliding: 0
 --- !u!1 &911178470
 GameObject:
   m_ObjectHideFlags: 0

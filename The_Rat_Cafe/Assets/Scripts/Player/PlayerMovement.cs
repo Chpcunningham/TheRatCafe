@@ -5,6 +5,7 @@ public class PlayerMovement : MonoBehaviour
 {
 
     [SerializeField] private float walkSpeed = 5.0f;
+
     private Rigidbody2D rb;
     private Vector2 moveInput;
     private Animator animator;
@@ -40,4 +41,5 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("InputY", moveInput.y);
 
     }
+
 }
